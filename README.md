@@ -1,7 +1,6 @@
 # neuronest
 NeuroNest is an AI-powered agentic IDE designed for developers, teams, and businesses that want more than simple autocomplete. It helps users build, review, secure, and manage code through specialized AI agents, local-first workflows, and production-focused development tools.
-#useful links
- https://neuronest.cc/
+
  #About
  # NeuroNest: A Powerful AI Coding Platform for Developers Who Need More Than Autocomplete
 
