@@ -1,7 +1,6 @@
 # neuronest
 NeuroNest is an AI-powered agentic IDE designed for developers, teams, and businesses that want more than simple autocomplete. It helps users build, review, secure, and manage code through specialized AI agents, local-first workflows, and production-focused development tools.
 
- #About
  # NeuroNest: A Powerful AI Coding Platform for Developers Who Need More Than Autocomplete
 
 AI coding has become an important part of modern software development. Developers now use tools like [Cursor](https://neuronest.cc/), [Windsurf](https://neuronest.cc/), [MindStudio](https://neuronest.cc/), [Claude Code](https://neuronest.cc/), [Codex](https://neuronest.cc/), and [Zed](https://neuronest.cc/) to write code faster, fix bugs, and improve productivity. These tools are useful, but many developers and teams need a more advanced platform that can support complete development workflows, not just simple coding assistance.
